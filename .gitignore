@@ -1,0 +1,11 @@
+# 本仓库只放规则文本
+*.mp4
+*.mkv
+*.mov
+*.wav
+*.mp3
+*.zip
+.env
+*.key
+Thumbs.db
+.DS_Store
